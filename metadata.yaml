@@ -1,0 +1,35 @@
+_repo: Spellbinders_72473
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Banning, Margaret Culkin
+    birthdate: 1891
+    deathdate: 1982
+    gutenberg_agent_id: '56694'
+    url: http://www.gutenberg.org/2009/agents/56694
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Culkin_Banning
+description: ''
+gutenberg_issued: '2023-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72473'
+language: en
+pgterms:marc904: https://archive.org/details/spellbinders00bannrich
+pgterms:marc905: 20230103040429banning
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNYC :$bGeorge H. Doran Company, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Middle West -- Fiction'
+- !lcsh 'Women -- Political activity -- Fiction'
+- !lcsh 'Spouses -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Spellbinders
+url: http://www.gutenberg.org/ebooks/72473
